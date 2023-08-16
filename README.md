@@ -15,4 +15,4 @@
 </pre>
 - evaluation.ipynb では，arrangement する場合としない場合の比較をしている(データ生成は指数分布に従う)
 - solver_binary.ipynb では，positive か negative になる確率が **binary** で与えられている場合を考えている
-- solver_continuous.ipynb では，positive か negative になる確率が **指数分布** で与えられる場合を考えている
+- solver_continuous.ipynb では，positive か negative になる確率が**指数分布**で与えられる場合を考えている
