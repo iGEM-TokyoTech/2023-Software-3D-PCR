@@ -1,6 +1,11 @@
 # 概要
 2023 年 iGEM TokyoTech の 3D-PCR モデルに使用するコードたち
 
+```
+docker-compose up --build
+```
+で jupyterlab が立ち上がるので，そこで動かしてください．
+
 # ディレクトリ構成
 <pre>
 .
