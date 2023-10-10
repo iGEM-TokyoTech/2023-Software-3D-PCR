@@ -11,5 +11,5 @@ RUN pip install pandas
 RUN pip install numpy
 RUN pip install matplotlib
 RUN pip install scipy
-
+RUN pip install seaborn
 # WORKDIR /src
